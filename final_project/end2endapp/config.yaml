@@ -1,0 +1,6 @@
+host: dbsfall2023.mysql.database.azure.com
+user: Qian
+password: SoundVoltex6
+database: finalProject
+client_flags: [2048]
+ssl_ca: C:/zqhome/NYU Course/DBS/Project/DigiCertGlobalRootG2.crt.pem
